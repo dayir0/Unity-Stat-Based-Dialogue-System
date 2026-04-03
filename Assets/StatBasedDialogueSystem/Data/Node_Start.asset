@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Node_Start
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  dialogueText: Kaleye girmek yasak!! Kimsin Sen?
+  options:
+  - optionText: "Kenara \xE7ekil yoksa can\u0131n\u0131 yakar\u0131m. "
+    nextNode: {fileID: 0}
+    requirement:
+      requiredStat: 1
+      minValue: 15
+  - optionText: "Ge\xE7erken U\u011Frad\u0131m"
+    nextNode: {fileID: 0}
+    requirement:
+      requiredStat: 0
+      minValue: 0
