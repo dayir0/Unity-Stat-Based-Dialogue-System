@@ -53,7 +53,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📊 Executive Pitch Deck (Yatırımcı Sunumu)
+## 📊 Executive Pitch Deck 
 This project is designed not just as a code prototype, but as a scalable, licensable B2B middleware product for indie and AA studios. 
 
 We have prepared a comprehensive Pitch Deck covering the market problem, our modular solution (eliminating spaghetti code), technical architecture (ScriptableObjects + Adapter Pattern), and business model.
